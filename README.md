@@ -14,6 +14,6 @@ high degree of accuracy.
 
 <figure>
     <img src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png"
-         alt="React">
+         alt="React" style="width: 20px">
     <figcaption>React</figcaption>
 </figure>
