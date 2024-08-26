@@ -37,4 +37,8 @@
         <img src="https://mma.prnewswire.com/media/384058/MongoDB_Logo.jpg?p=facebook"
          alt="MongoDb" style="width: 100px">
     </span>
+    <span>
+        <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"
+         alt="MySQL" style="width: 100px">
+    </span>
 </figure>
