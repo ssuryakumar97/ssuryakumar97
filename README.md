@@ -11,3 +11,9 @@ high degree of accuracy.
 
 ## Tech Stacks
 ![React](https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png)
+
+<figure>
+    <img src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png"
+         alt="React">
+    <figcaption>React</figcaption>
+</figure>
