@@ -10,13 +10,16 @@ high degree of accuracy.
 ---
 
 ## Tech Stacks
-![React](https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png)
 
 <figure>
+<span>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiWN6UfXWXQ7NoFgDRs9yB7FbhcmvjtAooTyIlTHnjVdoGNTKnqkzM2n86huwRMpBwN4&usqp=CAU"
          alt="HTML" style="width: 100px">
+    </span>
+    <span>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDwBd9LoQzBAZigXXxzQ0kKn6TwyrE0Y7Rg&s"
          alt="CSS" style="width: 100px">
+    </span>
     <img src="https://i.pinimg.com/736x/13/40/7c/13407c12f50f08d328800c3caef43f61.jpg"
          alt="Javascript" style="width: 100px">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s"
