@@ -41,4 +41,8 @@
         <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"
          alt="MySQL" style="width: 100px">
     </span>
+  <span>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBOy1dXFCRv_iVBu4hz4QRSQAUtxAiwKfx8Q&s"
+         alt="Redux" style="width: 100px">
+    </span>
 </figure>
